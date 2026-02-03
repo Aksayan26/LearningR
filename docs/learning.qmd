@@ -1,0 +1,33 @@
+---
+title: "Reproducible Document"
+author: "rostools"
+format: html
+---
+
+```{r setup}
+library(tidyverse)
+```
+
+
+## Writing R code
+
+2 + 2
+
+```{r}
+2 + 2
+```
+
+## About me
+- Aksayan 
+- Arunanthy 
+- Mahalingasivam
+
+Jeg er til **R** *kursus*
+
+## Simple code
+```{r}
+3*3
+```
+
+Færdig 
+
