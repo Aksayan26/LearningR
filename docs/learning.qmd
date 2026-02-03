@@ -31,3 +31,6 @@ Jeg er til **R** *kursus*
 
 Færdig 
 
+**Testing for GIT
+
+Færdig test
