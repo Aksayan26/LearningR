@@ -2,6 +2,8 @@ TODO: Add more to the title of your project here
 
 rostools teaching R
 
+Hej med dig
+
 # LearningR:
 
 TODO: Give a brief description of what your project is about
