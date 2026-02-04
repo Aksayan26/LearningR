@@ -2,7 +2,7 @@ TODO: Add more to the title of your project here
 
 rostools teaching R
 
-Hej med dig
+Hej med dig, ok tak
 
 # LearningR:
 
